@@ -80,3 +80,4 @@ def loadBooksTags(control, filename):
     de tags. Siga el mismo procedimiento que en la carga de libros.
     """
     pass
+   mamahuevo
